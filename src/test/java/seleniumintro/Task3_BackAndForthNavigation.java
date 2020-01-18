@@ -12,7 +12,7 @@ public class Task3_BackAndForthNavigation {
         driver.manage().window().maximize();
 
         driver.get("https://www.google.com");
-        driver.findElement(By.name("Gmail")).click();
+        driver.findElement(By.linkText("Gmail")).click();
 
         String expectedTitle = "Gmail";
         String actualTitle = driver.getTitle();
