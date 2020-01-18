@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WY6JfJPVR2VJxK4QcUqODvBnwp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager" selected="Application.Task3_BackAndForthNavigation">
+    <configuration name="FirstSeleniumClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.FirstSeleniumClass" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LocatorsIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.LocatorsIntro" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task1_GoogleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task1_GoogleVerification" />
+      <module name="SeleniumProjects" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task2_CybertekVerifications" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task2_CybertekVerifications" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3_BackAndForthNavigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task3_BackAndForthNavigation" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task3_BackAndForthNavigation" />
+        <item itemvalue="Application.LocatorsIntro" />
+        <item itemvalue="Application.Task2_CybertekVerifications" />
+        <item itemvalue="Application.Task1_GoogleVerification" />
+        <item itemvalue="Application.FirstSeleniumClass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="" />
+      <created>1579314110201</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579314110201</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1579387046458">
+      <screen x="0" y="23" width="1440" height="848" />
+    </state>
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1579387046458" />
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
+    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1579387046457">
+      <screen x="0" y="23" width="1440" height="848" />
+    </state>
+    <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1579387046457" />
+    <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
+    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1579387046456">
+      <screen x="0" y="23" width="1440" height="848" />
+    </state>
+    <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1579387046456" />
+    <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
+    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1579387046457">
+      <screen x="0" y="23" width="1440" height="848" />
+    </state>
+    <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1579387046457" />
+    <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
+    <state x="1230" y="1477" key="SettingsEditor" timestamp="1579372332774">
+      <screen x="1009" y="1463" width="1440" height="848" />
+    </state>
+    <state x="1230" y="1477" key="SettingsEditor/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372332774" />
+    <state x="374" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1579379968943">
+      <screen x="0" y="23" width="1440" height="848" />
+    </state>
+    <state x="374" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.848@0.23.1440.848" timestamp="1579379968943" />
+  </component>
+</project>
