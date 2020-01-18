@@ -17,30 +17,34 @@ public class Task3_BackAndForthNavigation {
         String expectedTitle = "Gmail";
         String actualTitle = driver.getTitle();
 
-        if (actualTitle.equals(expectedTitle)) {
-            System.out.println("Title verification PASSED");
+        if (actualTitle.contains(expectedTitle)) {
+            System.out.println("Gmail title verification PASSED");
         } else {
-            System.out.println("Title verification FAILED");
+            System.out.println("Gmail title verification FAILED");
         }
 
         driver.navigate().back();
 
-        String expectedTitle1 = "Google";
-        String actualTitle1 = driver.getTitle();
-        if (actualTitle1.equals(expectedTitle1)) {
-            System.out.println("Title verification PASSED");
+        String expectedTitleGoogle = "Google";
+        String actualTitleGoogle = driver.getTitle();
+
+        if (actualTitleGoogle.equals(expectedTitleGoogle)) {
+            System.out.println("Google title verification PASSED");
         } else {
-            System.out.println("Title verification FAILED");
+            System.out.println("Google title verification FAILED");
         }
 
         driver.navigate().forward();
         String expectedTitle2 = "Gmail";
         String actualTitle2 = driver.getTitle();
 
-        if (actualTitle2.equals(expectedTitle2)) {
-            System.out.println("Title verification PASSED");
+        if (actualTitle2.contains(expectedTitle2)) {
+            System.out.println("Gmail title verification PASSED");
         } else {
-            System.out.println("Title verification FAILED");
+            System.out.println("Gmail title verification FAILED");
         }
+
+        driver.close();
     }
+
 }
