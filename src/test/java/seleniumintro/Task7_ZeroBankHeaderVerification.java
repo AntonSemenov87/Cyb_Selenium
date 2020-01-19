@@ -12,10 +12,17 @@ public class Task7_ZeroBankHeaderVerification {
         driver.manage().window().maximize();
         driver.get("http://zero.webappsecurity.com/login.html");
 
-        driver.findElement(By.name("page-header"));
+        System.out.println(driver.findElement(By.className("page-header")).getText());
 
+        String str = driver.findElement(By.className("page-header")).getText();
         String expectedHeader = "Log in to ZeroBank";
-        String actualHeader = driver.getPageSource();
+
+        if (str.equals(expectedHeader)) {
+            System.out.println("Check Passed");
+        } else {
+            System.out.println("Check failed");
+        }
+        driver.close();
 
 
 
