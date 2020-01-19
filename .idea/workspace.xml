@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Task4_BasicLoginAuthentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Task5_GoogleSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Task5_GoogleSearch1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Task3_BackAndForthNavigation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Task3_BackAndForthNavigation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,42 +43,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Task3_BackAndForthNavigation">
-    <configuration name="FirstSeleniumClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.FirstSeleniumClass" />
-      <module name="SeleniumProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumintro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task5_GoogleSearch">
     <configuration name="LocatorsIntro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.LocatorsIntro" />
-      <module name="SeleniumProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumintro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task1_GoogleVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task1_GoogleVerification" />
-      <module name="SeleniumProjects" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task2_CybertekVerifications" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task2_CybertekVerifications" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -101,13 +70,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task4_BasicLoginAuthentication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task4_BasicLoginAuthentication" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5_GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task5_GoogleSearch" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task5_GoogleSearch1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task5_GoogleSearch1" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task5_GoogleSearch" />
+        <item itemvalue="Application.Task5_GoogleSearch1" />
+        <item itemvalue="Application.Task4_BasicLoginAuthentication" />
         <item itemvalue="Application.Task3_BackAndForthNavigation" />
         <item itemvalue="Application.LocatorsIntro" />
-        <item itemvalue="Application.Task2_CybertekVerifications" />
-        <item itemvalue="Application.Task1_GoogleVerification" />
-        <item itemvalue="Application.FirstSeleniumClass" />
       </list>
     </recent_temporary>
   </component>
@@ -137,25 +145,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1579387983280">
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1579456394276">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1579387983280" />
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1579456394276" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1579387983279">
+    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1579456394275">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1579387983279" />
+    <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1579456394275" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1579387983278">
+    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1579456394275">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1579387983278" />
+    <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1579456394275" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1579387983279">
+    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1579456394276">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1579387983279" />
+    <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1579456394276" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
     <state x="1230" y="1477" key="SettingsEditor" timestamp="1579372332774">
       <screen x="1009" y="1463" width="1440" height="848" />
