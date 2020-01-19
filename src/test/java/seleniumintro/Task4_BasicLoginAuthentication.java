@@ -11,6 +11,7 @@ public class Task4_BasicLoginAuthentication {
         WebDriverManager.chromedriver().setup();
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
+
         driver.get("http://www.secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx");
 
         String expectedTitle = "Web Orders Login";
