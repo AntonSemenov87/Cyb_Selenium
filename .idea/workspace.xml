@@ -2,13 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/GoogleAttributeValue_example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/GoogleTC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/HerokuApp_URL_Verification.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Instagram_login_check.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Task8_ZeroBanhHeaderVerification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Task9_ZeroBankBasicAuthentication.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Task7_ZeroBankHeaderVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Task7_ZeroBankHeaderVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Task8_ZeroBanhHeaderVerification.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Task8_ZeroBankHeaderVerification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task8_ZeroBanhHeaderVerification.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +43,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Task8_ZeroBanhHeaderVerification">
+  <component name="RunManager" selected="Application.Task9_ZeroBankBasicAuthentication">
     <configuration name="GoogleTC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.GoogleTC" />
       <module name="SeleniumProjects" />
@@ -73,19 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Instagram_login_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Instagram_login_check" />
-      <module name="SeleniumProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumintro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Task7_ZeroBankHeaderVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.Task7_ZeroBankHeaderVerification" />
       <module name="SeleniumProjects" />
@@ -99,8 +83,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task8_ZeroBanhHeaderVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task8_ZeroBanhHeaderVerification" />
+    <configuration name="Task8_ZeroBankHeaderVerification" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task8_ZeroBankHeaderVerification" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task9_ZeroBankBasicAuthentication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task9_ZeroBankBasicAuthentication" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Task8_ZeroBanhHeaderVerification" />
+        <item itemvalue="Application.Task9_ZeroBankBasicAuthentication" />
+        <item itemvalue="Application.Task8_ZeroBankHeaderVerification" />
         <item itemvalue="Application.HerokuApp_URL_Verification" />
         <item itemvalue="Application.Task7_ZeroBankHeaderVerification" />
         <item itemvalue="Application.GoogleTC" />
-        <item itemvalue="Application.Instagram_login_check" />
       </list>
     </recent_temporary>
   </component>
@@ -148,25 +145,25 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1579472197341">
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom" timestamp="1579473452205">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1579472197341" />
+    <state width="1398" height="221" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1579473452205" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1579472197340">
+    <state width="1398" height="221" key="GridCell.Tab.0.center" timestamp="1579473452204">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1579472197340" />
+    <state width="1398" height="221" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1579473452204" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1579472197339">
+    <state width="1398" height="221" key="GridCell.Tab.0.left" timestamp="1579473452204">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1579472197339" />
+    <state width="1398" height="221" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1579473452204" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1579472197340">
+    <state width="1398" height="221" key="GridCell.Tab.0.right" timestamp="1579473452205">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1579472197340" />
+    <state width="1398" height="221" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1579473452205" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
     <state x="1230" y="1477" key="SettingsEditor" timestamp="1579372332774">
       <screen x="1009" y="1463" width="1440" height="848" />
