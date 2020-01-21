@@ -31,7 +31,7 @@ public class Task5_GoogleSearch {
             System.out.println("Apple Title verification Failed");
         }
 
-        driver.close();
+        driver.quit();
 
 
 
