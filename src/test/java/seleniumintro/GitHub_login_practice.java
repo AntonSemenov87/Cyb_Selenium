@@ -16,7 +16,10 @@ public class GitHub_login_practice {
         driver.get("https://github.com/login");
 
         driver.findElement(By.id("login_field")).sendKeys("Anthony04061987@gmail.com");
-        driver.findElement(By.id("password")).sendKeys("Anthony5025");
+
+        // password fixed and is incorrect
+
+        driver.findElement(By.id("password")).sendKeys("Anthon");
         driver.findElement(By.name("commit")).click();
         WebElement searchRepo = driver.findElement(By.className("dashboard-repos-filter-left"));
         Thread.sleep(2000);
