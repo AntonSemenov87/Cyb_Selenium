@@ -2,13 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Amazon_search.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/GitHub_login_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Mentoring_Tue/Amazon_mentoring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Instagram_login_check.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Instagram_login_check.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Task5_GoogleSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Task5_GoogleSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/PNC_login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Amazon_search.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Amazon_search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/FirstSeleniumClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/FirstSeleniumClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/GitHub_login_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/GitHub_login_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleAttributeValue_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleAttributeValue_example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleTC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleTC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/HerokuApp_URL_Verification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/HerokuApp_URL_Verification.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Instagram_login_check.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Instagram_login_check.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/LocatorsIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/LocatorsIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task1_GoogleVerification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task1_GoogleVerification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task2_CybertekVerifications.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task2_CybertekVerifications.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task3_BackAndForthNavigation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task3_BackAndForthNavigation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task4_BasicLoginAuthentication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task4_BasicLoginAuthentication.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task5_GoogleSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task5_GoogleSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task6_EtsyTitleVerification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task6_EtsyTitleVerification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task7_ZeroBankHeaderVerification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task7_ZeroBankHeaderVerification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task8_ZeroBankHeaderVerification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task8_ZeroBankHeaderVerification.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task9_ZeroBankBasicAuthentication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task9_ZeroBankBasicAuthentication.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,8 +45,12 @@
     <option name="importingSettings">
       <MavenImportingSettings>
         <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11.0.4" />
   </component>
   <component name="ProjectId" id="1WY6JfJPVR2VJxK4QcUqODvBnwp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,7 +66,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Amazon_search">
+  <component name="RunManager" selected="JUnit.Amazon_mentoring.navigateTo">
     <configuration name="Amazon_search" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.Amazon_search" />
       <module name="SeleniumProjects" />
@@ -61,8 +80,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GitHub_login_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.GitHub_login_practice" />
+    <configuration name="GoogleTC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.GoogleTC" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -74,8 +93,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Instagram_login_check" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Instagram_login_check" />
+    <configuration name="PNC_login" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.PNC_login" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -87,39 +106,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task4_BasicLoginAuthentication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task4_BasicLoginAuthentication" />
+    <configuration name="Amazon_mentoring" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="PATTERN" value="Mentoring_Tue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Mentoring_Tue" />
+      <option name="MAIN_CLASS_NAME" value="Mentoring_Tue.Amazon_mentoring" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task5_GoogleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Task5_GoogleSearch" />
+    <configuration name="Amazon_mentoring.navigateTo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="PATTERN" value="Mentoring_Tue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Mentoring_Tue" />
+      <option name="MAIN_CLASS_NAME" value="Mentoring_Tue.Amazon_mentoring" />
+      <option name="METHOD_NAME" value="navigateTo" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.Amazon_mentoring.navigateTo" />
+        <item itemvalue="Application.GoogleTC" />
+        <item itemvalue="JUnit.Amazon_mentoring" />
+        <item itemvalue="Application.PNC_login" />
         <item itemvalue="Application.Amazon_search" />
-        <item itemvalue="Application.GitHub_login_practice" />
-        <item itemvalue="Application.Task4_BasicLoginAuthentication" />
-        <item itemvalue="Application.Instagram_login_check" />
-        <item itemvalue="Application.Task5_GoogleSearch" />
       </list>
     </recent_temporary>
   </component>
@@ -149,42 +173,43 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1398" height="128" key="GridCell.Tab.0.bottom" timestamp="1579576592567">
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom" timestamp="1579651558267">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579480220413" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
-    <state width="1398" height="128" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1579576592567" />
+    <state width="1398" height="164" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1579651558267" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="128" key="GridCell.Tab.0.center" timestamp="1579576592566">
+    <state width="1398" height="164" key="GridCell.Tab.0.center" timestamp="1579651558266">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="128" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1579576592566" />
+    <state width="1398" height="164" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1579651558266" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="128" key="GridCell.Tab.0.left" timestamp="1579576592565">
+    <state width="1398" height="164" key="GridCell.Tab.0.left" timestamp="1579651558265">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579480220411" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="128" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1579576592565" />
+    <state width="1398" height="164" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1579651558265" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="128" key="GridCell.Tab.0.right" timestamp="1579576592566">
+    <state width="1398" height="164" key="GridCell.Tab.0.right" timestamp="1579651558266">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
-    <state width="1398" height="128" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1579576592566" />
+    <state width="1398" height="164" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1579651558266" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state x="1230" y="1477" key="SettingsEditor" timestamp="1579372332774">
-      <screen x="1009" y="1463" width="1440" height="848" />
+    <state x="221" y="37" key="SettingsEditor" timestamp="1579651031640">
+      <screen x="0" y="23" width="1440" height="848" />
     </state>
+    <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1579651031640" />
     <state x="1230" y="1477" key="SettingsEditor/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372332774" />
-    <state x="374" y="274" key="com.intellij.ide.util.TipDialog" timestamp="1579567767806">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="374" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1579650416077">
+      <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state x="374" y="274" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579567767806" />
-    <state x="374" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.848@0.23.1440.848" timestamp="1579479197697" />
+    <state x="374" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.848@0.23.1440.848" timestamp="1579650416077" />
   </component>
 </project>
