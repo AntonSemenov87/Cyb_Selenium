@@ -60,8 +60,4 @@ public class Etsy_XPATH {
 
         driver.quit();
     }
-
-    public static void searchBox (String s) {
-
-    }
 }
