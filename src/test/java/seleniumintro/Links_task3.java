@@ -20,7 +20,7 @@ public class Links_task3 {
         // 2.Go	to	https://www.openxcell.com
         driver.get("https://www.openxcell.com");
 
-        // 3.Print out the texts of all links
+        // 3.Print out the number of empty links
 
         List<WebElement> list  = driver.findElements(By.xpath("//body//a"));
 
