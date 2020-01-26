@@ -28,6 +28,12 @@ public class Links_task2 {
             System.out.println(e.getText());
         }
 
+        // OR
+//        for (int i = 0; i < list.size(); i++) {
+//            list.get(i).getText();
+//            System.out.println(i);
+//        }
+
 
     }
 }
