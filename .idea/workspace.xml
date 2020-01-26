@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Links_task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Links_task2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/SeleniumEasy_checkbox_task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/SeleniumEasy_checkbox_task2.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,20 +47,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.SeleniumEasy_checkbox_task2">
-    <configuration name="Cybertek_AddRemoveElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Cybertek_AddRemoveElements" />
-      <module name="SeleniumProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumintro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Links_task2">
     <configuration name="Cybertek_Checkboxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.Cybertek_Checkboxes" />
       <module name="SeleniumProjects" />
@@ -71,8 +61,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Cybertek_xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Cybertek_xpath" />
+    <configuration name="Links_task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Links_task1" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Links_task2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Links_task2" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -112,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Links_task2" />
+        <item itemvalue="Application.Links_task1" />
         <item itemvalue="Application.SeleniumEasy_checkbox_task2" />
         <item itemvalue="Application.SeleniumEasy_checbox_task1" />
         <item itemvalue="Application.Cybertek_Checkboxes" />
-        <item itemvalue="Application.Cybertek_AddRemoveElements" />
-        <item itemvalue="Application.Cybertek_xpath" />
       </list>
     </recent_temporary>
   </component>
@@ -150,33 +153,33 @@
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state x="100" y="123" width="1240" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.848@0.23.1440.848" timestamp="1579651671942" />
-    <state width="1398" height="200" key="GridCell.Tab.0.bottom" timestamp="1580059940235">
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom" timestamp="1580064820330">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579480220413" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
-    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580059940235" />
+    <state width="1398" height="200" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580064820330" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="200" key="GridCell.Tab.0.center" timestamp="1580059940234">
+    <state width="1398" height="200" key="GridCell.Tab.0.center" timestamp="1580064820329">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="200" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580059940234" />
+    <state width="1398" height="200" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580064820329" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="200" key="GridCell.Tab.0.left" timestamp="1580059940233">
+    <state width="1398" height="200" key="GridCell.Tab.0.left" timestamp="1580064820329">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579480220411" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="200" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580059940233" />
+    <state width="1398" height="200" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580064820329" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="200" key="GridCell.Tab.0.right" timestamp="1580059940235">
+    <state width="1398" height="200" key="GridCell.Tab.0.right" timestamp="1580064820329">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
-    <state width="1398" height="200" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580059940235" />
+    <state width="1398" height="200" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580064820329" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
     <state x="221" y="37" key="SettingsEditor" timestamp="1579651031640">
       <screen x="0" y="23" width="1440" height="848" />
@@ -188,9 +191,9 @@
     </state>
     <state x="374" y="274" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579567767806" />
     <state x="374" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.848@0.23.1440.848" timestamp="1579978096770" />
-    <state x="385" y="195" width="670" height="676" key="search.everywhere.popup" timestamp="1579979334126">
+    <state x="385" y="195" width="670" height="676" key="search.everywhere.popup" timestamp="1580064052635">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state x="385" y="195" width="670" height="676" key="search.everywhere.popup/0.23.1440.848@0.23.1440.848" timestamp="1579979334126" />
+    <state x="385" y="195" width="670" height="676" key="search.everywhere.popup/0.23.1440.848@0.23.1440.848" timestamp="1580064052635" />
   </component>
 </project>
