@@ -36,14 +36,26 @@ public class SeleniumEasy_checkbox_task2 {
 
 
         // 5.Verify	all	check	boxes	are	checked
-        WebElement checker = driver.findElement(By.xpath("//input[@id='isChkd']"));
-        String actualChecker = checker.getAttribute("value");
-        String expectedChecker = "true";
+    //Option1:
+//        WebElement checker = driver.findElement(By.xpath("//input[@id='isChkd']"));
+//        String actualChecker = checker.getAttribute("value");
+//        String expectedChecker = "true";
+//
+//        if (expectedChecker.equals(actualChecker)) {
+//            System.out.println("All boxes are checked");
+//        } else {
+//            System.out.println("One or more boxes are NOT checked");
+//        }
+    // Option 2:
+        WebElement checkbox1 = driver.findElement(By.xpath("(//input[@class='cb1-element'])[1]"));
+        WebElement checkbox2 = driver.findElement(By.xpath("(//input[@class='cb1-element'])[2]"));
+        WebElement checkbox3 = driver.findElement(By.xpath("(//input[@class='cb1-element'])[3]"));
+        WebElement checkbox4 = driver.findElement(By.xpath("(//input[@class='cb1-element'])[4]"));
 
-        if (expectedChecker.equals(actualChecker)) {
-            System.out.println("All boxes are checked");
+        if (checkbox1.isSelected() && checkbox2.isSelected() && checkbox3.isSelected() && checkbox4.isSelected()) {
+            System.out.println("All checkboxes are checked. Verification PASSED");
         } else {
-            System.out.println("One or more boxes are NOT checked");
+            System.out.println("All checkboxes are not checked. Verification FAILED!");
         }
 
 
