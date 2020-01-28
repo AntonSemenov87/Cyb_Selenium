@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Cybertek_dropdown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/DropDown_selectFromNonSelectDropDown.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/DropdownSelect_Date.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/DropdownSelect_multipleSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/JavaFakerExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Links_task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Links_task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/DropDown_selectFromNonSelectDropDown.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/DropDown_selectFromNonSelectDropDown.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/DropDown_selectFromNonSelectDropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/DropDown_selectFromNonSelectDropDown.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.DropDown_selectFromNonSelectDropDown">
+  <component name="RunManager" selected="Application.JavaFakerExample">
     <configuration name="Cybertek_dropdown" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.Cybertek_dropdown" />
       <module name="SeleniumProjects" />
@@ -102,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Links_task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Links_task3" />
+    <configuration name="JavaFakerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.JavaFakerExample" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JavaFakerExample" />
         <item itemvalue="Application.DropDown_selectFromNonSelectDropDown" />
         <item itemvalue="Application.DropdownSelect_multipleSelect" />
         <item itemvalue="Application.DropdownSelect_Date" />
         <item itemvalue="Application.Cybertek_dropdown" />
-        <item itemvalue="Application.Links_task3" />
       </list>
     </recent_temporary>
   </component>
@@ -155,38 +154,38 @@
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state x="100" y="123" width="1240" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.848@0.23.1440.848" timestamp="1579651671942" />
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1580078588687">
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom" timestamp="1580160881142">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579480220413" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
-    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580078588687" />
+    <state width="1398" height="204" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580160881142" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1580078588686">
+    <state width="1398" height="204" key="GridCell.Tab.0.center" timestamp="1580160881141">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580078588686" />
+    <state width="1398" height="204" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580160881141" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1580078588686">
+    <state width="1398" height="204" key="GridCell.Tab.0.left" timestamp="1580160881141">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579480220411" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580078588686" />
+    <state width="1398" height="204" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580160881141" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1580078588687">
+    <state width="1398" height="204" key="GridCell.Tab.0.right" timestamp="1580160881142">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
-    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580078588687" />
+    <state width="1398" height="204" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580160881142" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state x="221" y="37" key="SettingsEditor" timestamp="1579651031640">
+    <state x="221" y="37" key="SettingsEditor" timestamp="1580080034057">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1579651031640" />
+    <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1580080034057" />
     <state x="1230" y="1477" key="SettingsEditor/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372332774" />
     <state x="374" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1579978096770">
       <screen x="0" y="23" width="1440" height="848" />

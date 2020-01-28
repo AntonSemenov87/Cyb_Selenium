@@ -31,7 +31,7 @@ public class DropDown_selectFromNonSelectDropDown {
         String actualTitle = driver.getTitle();
         String expectedTitle = "Facebook - Log In or Sign Up";
 
-        if (actualTitle.contains(expectedTitle)) {
+        if (actualTitle.equals(expectedTitle)) {
             System.out.println("Title verification PASSED");
         } else {
             System.out.println("Title verification FAILED");
