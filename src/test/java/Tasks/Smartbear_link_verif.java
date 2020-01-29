@@ -20,18 +20,21 @@ public class Smartbear_link_verif {
         // 2.Go	to	website:	http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx
         driver.get("http://secure.smartbearsoftware.com/samples/testcomplete12/WebOrders/login.aspx");
 
-        // 3.Enter username: “Tester”
-        WebElement username = driver.findElement(By.xpath("//input[@id='ctl00_MainContent_username']"));
-        username.sendKeys("Tester");
+//        // 3.Enter username: “Tester”
+//        WebElement username = driver.findElement(By.xpath("//input[@id='ctl00_MainContent_username']"));
+//        username.sendKeys("Tester");
+//
+//        // 4.Enter password: “test”
+//        WebElement password = driver.findElement(By.xpath("//input[@id='ctl00_MainContent_password']"));
+//        password.sendKeys("test");
+//
+//
+//        // 5.Click to Login button
+//        WebElement loginButton = driver.findElement(By.xpath("//input[@id='ctl00_MainContent_login_button']"));
+//        loginButton.click();
 
-        // 4.Enter password: “test”
-        WebElement password = driver.findElement(By.xpath("//input[@id='ctl00_MainContent_password']"));
-        password.sendKeys("test");
-
-
-        // 5.Click to Login button
-        WebElement loginButton = driver.findElement(By.xpath("//input[@id='ctl00_MainContent_login_button']"));
-        loginButton.click();
+        // OR
+        loginToSmartBear(driver);
 
 
         // 6.Print out count of all the links on landing page
