@@ -1,40 +1,37 @@
 package Mentoring_Tue;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
-import org.junit.After;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
-import org.openqa.selenium.WebDriver;
-import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 
-public class Amazon_mentoring {
+import java.util.List;
 
-    WebDriver driver;
+public class Amazon_mentoring extends BasePage {
 
 
-    @Before
-    public void SetUp () {
-        System.out.println("Instantiating the driver");
-        WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
-    }
-
-    @After
-    public void tearDown() {
-        System.out.println("Quitting the browser");
-        driver.quit();
-    }
-
+    String url = "https://www.amazon.com/";
     @Test
     public void navigateTo() {
-        String url = "https://www.amazon.com";
         driver.get(url);
-        String actualURL = driver.getCurrentUrl();
-        System.out.println(actualURL);
-        Assert.assertEquals(url, actualURL);
-
-
+        String actualUrl = driver.getCurrentUrl();
+        System.out.println(actualUrl);
+        Assert.assertEquals(url, actualUrl);
     }
+    //Expected size = 47
+    @Test
+    public void validateCategroriesSize() {
+        driver.get(url);
+        driver.findElement(By.id("nav-hamburger-menu")).click();
+        int expCategoriesSize = 47;
+        List<WebElement> categoriesList = driver
+                .findElements(By.cssSelector("ul.hmenu-visible li"));
+        Assert.assertEquals(expCategoriesSize, categoriesList.size());
+    }
+    public void clickCategory(String categorName) {
+        driver.findElement(By.xpath("//*[.='" + categorName + "']")).click();
+    }
+
 
 }
