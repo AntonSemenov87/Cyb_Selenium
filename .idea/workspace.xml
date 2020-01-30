@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Techlistic_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/CreateCalendarEventsDropdown_test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/Vytrack_calendarEvent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/Vytrack_callPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/SeleniumUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/VytrackUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/Scrap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Vytrack/CreateCalendarEventsDropdown_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Vytrack/CreateCalendarEventsDropdown_test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +44,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Vytrack_calendarEvent">
-    <configuration name="SmartBear_orderVerif" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.SmartBear_orderVerif" />
+  <component name="RunManager" selected="Application.Scrap">
+    <configuration name="CreateCalendarEventsDropdown_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vytrack.CreateCalendarEventsDropdown_test" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -64,8 +60,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmartBear_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.SmartBear_practice" />
+    <configuration name="Scrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Vytrack.Scrap" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Scrap" />
+        <item itemvalue="Application.CreateCalendarEventsDropdown_test" />
         <item itemvalue="Application.Vytrack_calendarEvent" />
         <item itemvalue="Application.Vytrack_callPage" />
         <item itemvalue="Application.Techlistic_practice" />
-        <item itemvalue="Application.SmartBear_practice" />
-        <item itemvalue="Application.SmartBear_orderVerif" />
       </list>
     </recent_temporary>
   </component>
@@ -156,33 +152,33 @@
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state x="100" y="123" width="1240" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.848@0.23.1440.848" timestamp="1579651671942" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1580350073068">
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1580352916421">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579480220413" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580350073068" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580352916421" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1580350073067">
+    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1580352916420">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580350073067" />
+    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580352916420" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1580350073067">
+    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1580352916419">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579480220411" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580350073067" />
+    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580352916419" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1580350073068">
+    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1580352916420">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580350073068" />
+    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580352916420" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
     <state width="1398" height="274" key="GridCell.Tab.1.bottom" timestamp="1580344646745">
       <screen x="0" y="23" width="1440" height="848" />
@@ -200,10 +196,10 @@
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="274" key="GridCell.Tab.1.right/0.23.1440.848@0.23.1440.848" timestamp="1580344646745" />
-    <state x="221" y="37" key="SettingsEditor" timestamp="1580253899541">
+    <state x="221" y="37" key="SettingsEditor" timestamp="1580352693150">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1580253899541" />
+    <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1580352693150" />
     <state x="1230" y="1477" key="SettingsEditor/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372332774" />
     <state x="374" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1580344660036">
       <screen x="0" y="23" width="1440" height="848" />
