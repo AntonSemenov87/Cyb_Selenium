@@ -62,4 +62,15 @@ public class Smartbear_link_verif {
         WebElement loginButton = driver.findElement(By.xpath("//input[@id='ctl00_MainContent_login_button']"));
         loginButton.click();
     }
+    public static void verifyOrder(WebDriver driver, String givenName){
+        List<WebElement> allNames = driver.findElements(By.xpath("//table[@id='ctl00_MainContent_orderGrid']/tbody/tr/td[2]"));
+        for(WebElement name : allNames){
+            if(name.getText().equals(givenName)){
+                System.out.println(givenName + " exists in the list. Verification PASSED!");
+                return;
+            }
+        }
+        System.out.println(givenName + " does NOT exist in the list. Verification FAILED!!!");
+    }
+
 }
