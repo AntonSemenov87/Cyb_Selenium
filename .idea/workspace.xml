@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Tasks/Smartbear_verify_order.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Vytrack/Vytrack_defaultValuesCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/FirstTestNGClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/SmartBear_deleteAll.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/Smartbear_link_verif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Smartbear_link_verif.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/Smartbear_order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Tasks/Smartbear_order.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/Scrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vytrack/Scrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/Etsy_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmartBearPractice/Etsy_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/SmartBear_orderVerif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmartBearPractice/SmartBear_orderVerif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/SmartBear_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmartBearPractice/SmartBear_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/Smartbear_link_verif.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmartBearPractice/Smartbear_link_verif.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/Smartbear_order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmartBearPractice/Smartbear_order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/Smartbear_verify_order.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmartBearPractice/Smartbear_verify_order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Tasks/Techlistic_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmartBearPractice/Techlistic_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tasks/Smartbear_verify_order.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,13 +56,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Smartbear_verify_order">
-    <configuration name="CreateCalendarEventsDropdown_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vytrack.CreateCalendarEventsDropdown_test" />
+  <component name="RunManager" selected="TestNG.SmartBear_deleteAll">
+    <configuration name="FirstTestNGClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testNG.FirstTestNGClass" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vytrack.*" />
+          <option name="PATTERN" value="testNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -64,65 +70,83 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vytrack.Scrap" />
+    <configuration name="FirstTestNGClass" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vytrack.*" />
+          <option name="PATTERN" value="testNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="testNG" />
+      <option name="MAIN_CLASS_NAME" value="testNG.FirstTestNGClass" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Smartbear_order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Smartbear_order" />
+    <configuration name="FirstTestNGClass.asecondTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks.*" />
+          <option name="PATTERN" value="testNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="testNG" />
+      <option name="MAIN_CLASS_NAME" value="testNG.FirstTestNGClass" />
+      <option name="METHOD_NAME" value="asecondTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Smartbear_verify_order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tasks.Smartbear_verify_order" />
+    <configuration name="FirstTestNGClass.bfirstTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Tasks.*" />
+          <option name="PATTERN" value="testNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="testNG" />
+      <option name="MAIN_CLASS_NAME" value="testNG.FirstTestNGClass" />
+      <option name="METHOD_NAME" value="bfirstTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Vytrack_defaultValuesCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Vytrack.Vytrack_defaultValuesCheck" />
+    <configuration name="SmartBear_deleteAll" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Vytrack.*" />
+          <option name="PATTERN" value="testNG.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="testNG" />
+      <option name="MAIN_CLASS_NAME" value="testNG.SmartBear_deleteAll" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Smartbear_verify_order" />
-        <item itemvalue="Application.Smartbear_order" />
-        <item itemvalue="Application.Vytrack_defaultValuesCheck" />
-        <item itemvalue="Application.Scrap" />
-        <item itemvalue="Application.CreateCalendarEventsDropdown_test" />
+        <item itemvalue="TestNG.SmartBear_deleteAll" />
+        <item itemvalue="TestNG.FirstTestNGClass.asecondTest" />
+        <item itemvalue="TestNG.FirstTestNGClass.bfirstTest" />
+        <item itemvalue="TestNG.FirstTestNGClass" />
+        <item itemvalue="Application.FirstTestNGClass" />
       </list>
     </recent_temporary>
   </component>
@@ -152,37 +176,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="100" y="123" width="1240" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1579651671942">
+    <state x="100" y="123" width="1240" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1580592561433">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state x="100" y="123" width="1240" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.848@0.23.1440.848" timestamp="1579651671942" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1580582132596">
+    <state x="100" y="123" width="1240" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.848@0.23.1440.848" timestamp="1580592561433" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom" timestamp="1580598458040">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579480220413" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
-    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580582132596" />
+    <state width="1398" height="251" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580598458040" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1580582132595">
+    <state width="1398" height="251" key="GridCell.Tab.0.center" timestamp="1580598458040">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580582132595" />
+    <state width="1398" height="251" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580598458040" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1580582132595">
+    <state width="1398" height="251" key="GridCell.Tab.0.left" timestamp="1580598458039">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579480220411" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580582132595" />
+    <state width="1398" height="251" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580598458039" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1580582132596">
+    <state width="1398" height="251" key="GridCell.Tab.0.right" timestamp="1580598458040">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
-    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580582132596" />
+    <state width="1398" height="251" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580598458040" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
     <state width="1398" height="274" key="GridCell.Tab.1.bottom" timestamp="1580344646745">
       <screen x="0" y="23" width="1440" height="848" />
@@ -200,16 +224,16 @@
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="274" key="GridCell.Tab.1.right/0.23.1440.848@0.23.1440.848" timestamp="1580344646745" />
-    <state x="221" y="37" key="SettingsEditor" timestamp="1580352693150">
+    <state x="221" y="37" key="SettingsEditor" timestamp="1580590228954">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
-    <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1580352693150" />
+    <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1580590228954" />
     <state x="1230" y="1477" key="SettingsEditor/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372332774" />
-    <state x="374" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1580579620368">
+    <state x="374" y="281" key="com.intellij.ide.util.TipDialog" timestamp="1580659377159">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state x="374" y="274" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1579567767806" />
-    <state x="374" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.848@0.23.1440.848" timestamp="1580579620368" />
+    <state x="374" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.848@0.23.1440.848" timestamp="1580659377159" />
     <state x="385" y="195" width="670" height="676" key="search.everywhere.popup" timestamp="1580064052635">
       <screen x="0" y="23" width="1440" height="848" />
     </state>

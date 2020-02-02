@@ -1,4 +1,4 @@
-package Tasks;
+package SmartBearPractice;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.By;
@@ -52,6 +52,8 @@ public class Smartbear_link_verif {
 
     }
 
+
+    // LOGIN METHOD
     public static void loginToSmartBear(WebDriver driver) {
         WebElement username = driver.findElement(By.xpath("//input[@id='ctl00_MainContent_username']"));
         username.sendKeys("Tester");
@@ -62,6 +64,8 @@ public class Smartbear_link_verif {
         WebElement loginButton = driver.findElement(By.xpath("//input[@id='ctl00_MainContent_login_button']"));
         loginButton.click();
     }
+
+    // VERIFY NAME OF ORDER method
     public static void verifyOrder(WebDriver driver, String givenName){
         List<WebElement> allNames = driver.findElements(By.xpath("//table[@id='ctl00_MainContent_orderGrid']/tbody/tr/td[2]"));
         for(WebElement name : allNames){
@@ -71,6 +75,17 @@ public class Smartbear_link_verif {
             }
         }
         System.out.println(givenName + " does NOT exist in the list. Verification FAILED!!!");
+    }
+
+    // PRINT NAMES AND CITIES method
+    public static void printNamesAndCities (WebDriver driver) {
+        List<WebElement> allNames = driver.findElements(By.xpath("//table[@id='ctl00_MainContent_orderGrid']/tbody/tr/td[2]"));
+        List<WebElement> allCities = driver.findElements(By.xpath("//table[@id='ctl00_MainContent_orderGrid']/tbody/tr/td[7]"));
+
+        for (int i = 0; i < allCities.size(); i++) {
+            System.out.println(allNames.get(i).getText() + " <-- name, city --> " + allCities.get(i).getText());
+        }
+
     }
 
 }
