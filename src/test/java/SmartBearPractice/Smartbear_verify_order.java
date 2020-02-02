@@ -16,6 +16,7 @@ public class Smartbear_verify_order {
         Smartbear_link_verif.loginToSmartBear(driver);
         //verify the givenName is in the list
         Smartbear_link_verif.verifyOrder(driver,"another name");
+        driver.manage().getCookies();
 
         Smartbear_link_verif.printNamesAndCities(driver);
     }
