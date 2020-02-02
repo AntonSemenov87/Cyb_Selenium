@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Cybertek_practice/Alerts_testNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/DependenciesTestNG.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/testNG/OrderOfThings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Cybertek_practice/Iframe_testNG.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testNG/Smartbear_deleteOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testNG/Smartbear_deleteOrder.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +46,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.Alerts_testNG">
+  <component name="RunManager" selected="TestNG.Iframe_testNG">
     <configuration name="Alerts_testNG" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
@@ -102,6 +99,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Iframe_testNG" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Cybertek_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Cybertek_practice" />
+      <option name="MAIN_CLASS_NAME" value="Cybertek_practice.Iframe_testNG" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="OrderOfThings" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
@@ -119,30 +133,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Smartbear_deleteOrder" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testNG.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testNG" />
-      <option name="MAIN_CLASS_NAME" value="testNG.Smartbear_deleteOrder" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Iframe_testNG" />
         <item itemvalue="TestNG.Alerts_testNG" />
         <item itemvalue="TestNG.Alerts_testNG.jsAlert" />
         <item itemvalue="TestNG.DependenciesTestNG" />
         <item itemvalue="TestNG.OrderOfThings" />
-        <item itemvalue="TestNG.Smartbear_deleteOrder" />
       </list>
     </recent_temporary>
   </component>
@@ -176,33 +173,33 @@
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state x="100" y="123" width="1240" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.848@0.23.1440.848" timestamp="1580677727076" />
-    <state width="1398" height="137" key="GridCell.Tab.0.bottom" timestamp="1580678757642">
+    <state width="1398" height="288" key="GridCell.Tab.0.bottom" timestamp="1580681652631">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579480220413" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
-    <state width="1398" height="137" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580678757642" />
+    <state width="1398" height="288" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580681652631" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="137" key="GridCell.Tab.0.center" timestamp="1580678757641">
+    <state width="1398" height="288" key="GridCell.Tab.0.center" timestamp="1580681652630">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="137" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580678757641" />
+    <state width="1398" height="288" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580681652630" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="137" key="GridCell.Tab.0.left" timestamp="1580678757641">
+    <state width="1398" height="288" key="GridCell.Tab.0.left" timestamp="1580681652630">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579480220411" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="137" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580678757641" />
+    <state width="1398" height="288" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580681652630" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="137" key="GridCell.Tab.0.right" timestamp="1580678757642">
+    <state width="1398" height="288" key="GridCell.Tab.0.right" timestamp="1580681652631">
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
-    <state width="1398" height="137" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580678757642" />
+    <state width="1398" height="288" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580681652631" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
     <state width="1398" height="274" key="GridCell.Tab.1.bottom" timestamp="1580344646745">
       <screen x="0" y="23" width="1440" height="848" />
