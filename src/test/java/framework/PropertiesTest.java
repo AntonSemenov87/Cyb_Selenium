@@ -1,6 +1,11 @@
 package framework;
 
+import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.annotations.Test;
+import utilities.Config;
+import utilities.VytrackUtils;
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
@@ -29,6 +34,19 @@ public class PropertiesTest {
     System.out.println(properties.getProperty("password"));
 
 }
+
+@Test
+    public void testWithUtil () {
+
+    WebDriver driver;
+    WebDriverManager.chromedriver().setup();
+    driver = new ChromeDriver();
+    driver.manage().window().maximize();
+
+    driver.get(Config.getProperty("vytrackUrl"));
+    VytrackUtils.login(driver, Config.getProperty("storemanagerUsername"), Config.getProperty("storemanagerPassword"));
+}
+
 
 
 
