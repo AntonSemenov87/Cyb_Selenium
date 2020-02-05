@@ -12,6 +12,8 @@ public class Amazon_mentoring extends BasePage {
 
 
     String url = "https://www.amazon.com/";
+
+    AmazonUtils utils = new AmazonUtils();
     @Test
     public void navigateTo() {
         driver.get(url);
@@ -29,8 +31,13 @@ public class Amazon_mentoring extends BasePage {
                 .findElements(By.cssSelector("ul.hmenu-visible li"));
         Assert.assertEquals(expCategoriesSize, categoriesList.size());
     }
-    public void clickCategory(String categorName) {
-        driver.findElement(By.xpath("//*[.='" + categorName + "']")).click();
+
+    @Test
+    public void clickCategory () {
+        driver.get(url);
+        driver.findElement(By.id("nav-hamburger-menu")).click();
+        utils.clickCategory("Prime Video");
+        //driver.findElement(By.cssSelector())
     }
 
 
