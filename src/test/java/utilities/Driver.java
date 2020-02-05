@@ -2,8 +2,10 @@ package utilities;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebDriverException;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.openqa.selenium.safari.SafariDriver;
 
 import java.util.concurrent.TimeUnit;
 
@@ -27,6 +29,14 @@ public class Driver {
                     WebDriverManager.firefoxdriver().setup();
                     driver = new FirefoxDriver();
                     break;
+                case "safari":
+                    if (System.getProperty("os.name").toLowerCase().contains("windows")) {
+                    throw new WebDriverException("Whindows OS does not support Safari");
+                    }
+            }
+                    WebDriverManager.getInstance(SafariDriver.class).setup();
+                    driver = new SafariDriver();
+                    break;
             }
 
             WebDriverManager.chromedriver().setup();
@@ -38,7 +48,7 @@ public class Driver {
         return driver;
     }
 
-    public static void closeDriver () {
+    public static void quitDriver () {
         if (driver != null) {
             driver.quit();
             driver = null;
