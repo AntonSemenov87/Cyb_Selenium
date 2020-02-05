@@ -2,10 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/framework/DriverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/framework/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/framework/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/framework/PropertiesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/framework/PropertiesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/utilities/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utilities/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,34 +51,36 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="TestNG.PropertiesTest.testWithUtil">
-    <configuration name="Amazon_mentoring.clickCategory" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.DriverTest">
+    <configuration name="DriverTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Mentoring_Tue.*" />
+          <option name="PATTERN" value="framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Mentoring_Tue" />
-      <option name="MAIN_CLASS_NAME" value="Mentoring_Tue.Amazon_mentoring" />
-      <option name="METHOD_NAME" value="clickCategory" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="framework" />
+      <option name="MAIN_CLASS_NAME" value="framework.DriverTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Iframe_testNG" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="DriverTest.test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cybertek_practice.*" />
+          <option name="PATTERN" value="framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Cybertek_practice" />
-      <option name="MAIN_CLASS_NAME" value="Cybertek_practice.Iframe_testNG" />
-      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PACKAGE_NAME" value="framework" />
+      <option name="MAIN_CLASS_NAME" value="framework.DriverTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
       <method v="2">
@@ -117,16 +122,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandle_testNG" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SingletonTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Cybertek_practice.*" />
+          <option name="PATTERN" value="framework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="Cybertek_practice" />
-      <option name="MAIN_CLASS_NAME" value="Cybertek_practice.WindowHandle_testNG" />
+      <option name="PACKAGE_NAME" value="framework" />
+      <option name="MAIN_CLASS_NAME" value="framework.SingletonTest" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -136,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DriverTest" />
+        <item itemvalue="TestNG.DriverTest.test" />
+        <item itemvalue="TestNG.SingletonTest" />
         <item itemvalue="TestNG.PropertiesTest.testWithUtil" />
         <item itemvalue="TestNG.PropertiesTest" />
-        <item itemvalue="JUnit.Amazon_mentoring.clickCategory" />
-        <item itemvalue="TestNG.WindowHandle_testNG" />
-        <item itemvalue="TestNG.Iframe_testNG" />
       </list>
     </recent_temporary>
   </component>
@@ -174,36 +179,36 @@
       <screen x="0" y="23" width="1440" height="848" />
     </state>
     <state x="100" y="123" width="1240" height="648" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.23.1440.848@0.23.1440.848" timestamp="1580677727076" />
-    <state width="1398" height="186" key="GridCell.Tab.0.bottom" timestamp="1580867490061">
-      <screen x="0" y="23" width="1440" height="840" />
+    <state width="1398" height="175" key="GridCell.Tab.0.bottom" timestamp="1580870604740">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1579480220413" />
+    <state width="1398" height="175" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580870604740" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
-    <state width="1398" height="186" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1580867490061" />
+    <state width="1398" height="155" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1580868265069" />
     <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="186" key="GridCell.Tab.0.center" timestamp="1580867490060">
-      <screen x="0" y="23" width="1440" height="840" />
+    <state width="1398" height="175" key="GridCell.Tab.0.center" timestamp="1580870604739">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
+    <state width="1398" height="175" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580870604739" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="186" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1580867490060" />
+    <state width="1398" height="155" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
     <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="186" key="GridCell.Tab.0.left" timestamp="1580867490059">
-      <screen x="0" y="23" width="1440" height="840" />
+    <state width="1398" height="175" key="GridCell.Tab.0.left" timestamp="1580870604738">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1579480220411" />
+    <state width="1398" height="175" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580870604738" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
-    <state width="1398" height="186" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1580867490059" />
+    <state width="1398" height="155" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1580868265067" />
     <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="186" key="GridCell.Tab.0.right" timestamp="1580867490060">
-      <screen x="0" y="23" width="1440" height="840" />
+    <state width="1398" height="175" key="GridCell.Tab.0.right" timestamp="1580870604739">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1579480220412" />
+    <state width="1398" height="175" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580870604739" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
-    <state width="1398" height="186" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1580867490060" />
+    <state width="1398" height="155" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
     <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
     <state width="1398" height="274" key="GridCell.Tab.1.bottom" timestamp="1580344646745">
