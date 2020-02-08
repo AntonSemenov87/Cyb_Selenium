@@ -5,9 +5,9 @@ import org.testng.Assert;
 import org.testng.annotations.Test;
 import utilities.Driver;
 
-public class ThreadSleepTests {
+public class ImplicitWaitTests {
     @Test
-    public void threadSleepTest () throws InterruptedException {
+    public void threadSleepTest () throws InterruptedException{
         // 1 - getting the page
         Driver.getDriver().get("http://practice.cybertekschool.co,/dynamic_loading/2");
 
@@ -16,7 +16,7 @@ public class ThreadSleepTests {
 
         // 3 - clicking on the Start button using the Object we created
         dynamicLoading2Page.startButton.click();
-        Thread.sleep(5000);
+
 
         // 4 - Assert the webElement is displayed on the page
         Assert.assertTrue(dynamicLoading2Page.helloWorldText.isDisplayed(), "text is NOT displayed on the page");
