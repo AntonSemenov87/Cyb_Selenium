@@ -40,6 +40,7 @@ public class SmartBear_login {
             System.out.println("Fail");
         }
 
+        driver.quit();
 
 
 
