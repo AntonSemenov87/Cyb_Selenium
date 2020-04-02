@@ -9,7 +9,7 @@ import utilities.Driver;
 public class HoversTests {
 
     @Test
-    public void hoversTests () {
+    public void hoversTests () throws InterruptedException {
         // 1 - get the page
         Driver.getDriver().get("http://practice.cybertekschool.com/hovers");
 
@@ -25,15 +25,23 @@ public class HoversTests {
         // 5 - assert the expected text is displayed on the page
         Assert.assertTrue(hoversPage.user1Text.isDisplayed());
 
+        Thread.sleep(2000);
+
         // 6 - move to second image
         actions.moveToElement(hoversPage.image2).perform();
         // 7 - assert user2Text is displayed
         Assert.assertTrue(hoversPage.user2Text.isDisplayed());
+
+        Thread.sleep(2000);
 
         // 8 - move to third image
         actions.moveToElement(hoversPage.image3).perform();
         // 9 - assert user3Text is displayed
         Assert.assertTrue(hoversPage.user3Text.isDisplayed());
 
+        Driver.quitDriver();
+
     }
+
+
 }
