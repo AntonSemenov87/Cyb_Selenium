@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/tenantcloud_practice/Tests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/SmartBearPractice/SmartBear_login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/SmartBearPractice/SmartBear_login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/SmartBear_login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/SmartBear_login.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,9 +42,9 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Tests">
+  <component name="RunManager" selected="Application.GoogleAttributeValue_example">
     <configuration name="AppleSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.AppleSearch" />
       <module name="SeleniumProjects" />
@@ -61,8 +58,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CVS_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.CVS_practice" />
+    <configuration name="GoogleAttributeValue_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.GoogleAttributeValue_example" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GoogleTC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.GoogleTC" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -100,30 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HoversTests" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="actions_tests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="actions_tests" />
-      <option name="MAIN_CLASS_NAME" value="actions_tests.HoversTests" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.GoogleAttributeValue_example" />
+        <item itemvalue="Application.GoogleTC" />
         <item itemvalue="Application.Tests" />
         <item itemvalue="Application.SmartBear_login" />
         <item itemvalue="Application.AppleSearch" />
-        <item itemvalue="Application.CVS_practice" />
-        <item itemvalue="TestNG.HoversTests" />
       </list>
     </recent_temporary>
   </component>
@@ -170,43 +163,43 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1581042768376" />
-    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1585796467820">
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom" timestamp="1585801851921">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580956142032" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
     <state width="1398" height="155" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1580868265069" />
-    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1585796467820" />
+    <state width="1398" height="215" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1585801851921" />
     <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="272" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581270888149" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1585796467819">
+    <state width="1398" height="215" key="GridCell.Tab.0.center" timestamp="1585801851920">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580956142031" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
     <state width="1398" height="155" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
-    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1585796467819" />
+    <state width="1398" height="215" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1585801851920" />
     <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="272" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581270888148" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1585796467818">
+    <state width="1398" height="215" key="GridCell.Tab.0.left" timestamp="1585801851919">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580956142030" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
     <state width="1398" height="155" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1580868265067" />
-    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1585796467818" />
+    <state width="1398" height="215" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1585801851919" />
     <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="272" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581270888148" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1585796467819">
+    <state width="1398" height="215" key="GridCell.Tab.0.right" timestamp="1585801851920">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580956142031" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
     <state width="1398" height="155" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
-    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1585796467819" />
+    <state width="1398" height="215" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1585801851920" />
     <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="272" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581270888149" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
@@ -230,10 +223,10 @@
     </state>
     <state width="1398" height="274" key="GridCell.Tab.1.right/0.23.1440.848@0.23.1440.848" timestamp="1580344646745" />
     <state width="1398" height="272" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1581270888150" />
-    <state x="221" y="34" key="SettingsEditor" timestamp="1585787556733">
+    <state x="221" y="34" key="SettingsEditor" timestamp="1585802493580">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
-    <state x="221" y="34" key="SettingsEditor/0.23.1440.845@0.23.1440.845" timestamp="1585787556733" />
+    <state x="221" y="34" key="SettingsEditor/0.23.1440.845@0.23.1440.845" timestamp="1585802493580" />
     <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1580590228954" />
     <state x="221" y="37" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583348220441" />
     <state x="1230" y="1477" key="SettingsEditor/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372332774" />
