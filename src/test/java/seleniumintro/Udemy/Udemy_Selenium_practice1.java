@@ -1,4 +1,4 @@
-package seleniumintro;
+package seleniumintro.Udemy;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
