@@ -4,16 +4,28 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import utilities.Driver;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.List;
 
-public class GreenKart_addingItemsList {
-    public static void main(String[] args) throws InterruptedException {
-        Driver.getDriver().get("https://rahulshettyacademy.com/seleniumPractise/#/");
+public class GreenKart_addingItemsList_remake {
+    public static void main(String[] args) {
+        Driver.getDriver().get("https://www.rahulshettyacademy.com/seleniumPractise/");
+        String[] itemsNeeded = {"Brocolli", "Carrot", "Cucumber"};
 
-        int j=0;
-        String [] itemsNeeded = {"Brocolli", "Cucumber", "Beetroot", "Almonds"};
+        // calling method below
+        addItems(itemsNeeded);
+
+        // cart interaction after method
+        Driver.getDriver().findElement(By.xpath("//img[@alt='Cart']")).click();
+
+
+
+    }
+
+    public static void addItems(String[] itemsNeeded) {
+
+
+        int j = 0;
 
         List<WebElement> products = Driver.getDriver().findElements(By.cssSelector("h4.product-name"));
 
@@ -21,8 +33,8 @@ public class GreenKart_addingItemsList {
 
             // Broccoli - 1 Kg
 
-           String[] name =products.get(i).getText().split("-");
-           String formattedName = name[0].trim();
+            String[] name = products.get(i).getText().split("-");
+            String formattedName = name[0].trim();
 
             List itemsNeededList = Arrays.asList(itemsNeeded);
 
@@ -37,11 +49,5 @@ public class GreenKart_addingItemsList {
 
             }
         }
-
-
-
-
-
-        //Driver.quitDriver();
     }
 }
