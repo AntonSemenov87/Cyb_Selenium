@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Dropdown_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Udemy_facebook_xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Udemy_rediff_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Alerts_practice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/SpiceJet_order.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy_Selenium_practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Udemy_Selenium_practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy_Selenium_practice1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/MakeMyTrip_dropdown_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/MakeMyTrip_dropdown_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/SpiceJet_dropdown_practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/SpiceJet_dropdown_practice.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Dropdown_practice.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,9 +50,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Dropdown_practice">
-    <configuration name="Dropdown_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Dropdown_practice" />
+  <component name="RunManager" selected="Application.Alerts_practice">
+    <configuration name="Alerts_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Alerts_practice" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +64,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GoogleAttributeValue_example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.GoogleAttributeValue_example" />
+    <configuration name="Homework" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Homework" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +77,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Udemy_Selenium_practice1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Udemy_Selenium_practice1" />
+    <configuration name="MakeMyTrip_dropdown_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.MakeMyTrip_dropdown_practice" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +90,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Udemy_facebook_xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Udemy_facebook_xpath" />
+    <configuration name="SpiceJet_dropdown_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.SpiceJet_dropdown_practice" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Udemy_rediff_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Udemy_rediff_practice" />
+    <configuration name="SpiceJet_order" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.SpiceJet_order" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Dropdown_practice" />
-        <item itemvalue="Application.Udemy_facebook_xpath" />
-        <item itemvalue="Application.Udemy_rediff_practice" />
-        <item itemvalue="Application.Udemy_Selenium_practice1" />
-        <item itemvalue="Application.GoogleAttributeValue_example" />
+        <item itemvalue="Application.Alerts_practice" />
+        <item itemvalue="Application.SpiceJet_order" />
+        <item itemvalue="Application.SpiceJet_dropdown_practice" />
+        <item itemvalue="Application.Homework" />
+        <item itemvalue="Application.MakeMyTrip_dropdown_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -168,43 +169,43 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1581042768376" />
-    <state width="1398" height="111" key="GridCell.Tab.0.bottom" timestamp="1586191481325">
+    <state width="1398" height="75" key="GridCell.Tab.0.bottom" timestamp="1586217652044">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580956142032" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
     <state width="1398" height="155" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1580868265069" />
-    <state width="1398" height="111" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1586191481325" />
+    <state width="1398" height="75" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1586217652044" />
     <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="272" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581270888149" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="111" key="GridCell.Tab.0.center" timestamp="1586191481325">
+    <state width="1398" height="75" key="GridCell.Tab.0.center" timestamp="1586217652043">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580956142031" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
     <state width="1398" height="155" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
-    <state width="1398" height="111" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1586191481325" />
+    <state width="1398" height="75" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1586217652043" />
     <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="272" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581270888148" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="111" key="GridCell.Tab.0.left" timestamp="1586191481324">
+    <state width="1398" height="75" key="GridCell.Tab.0.left" timestamp="1586217652042">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580956142030" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
     <state width="1398" height="155" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1580868265067" />
-    <state width="1398" height="111" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1586191481324" />
+    <state width="1398" height="75" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1586217652042" />
     <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="272" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581270888148" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="111" key="GridCell.Tab.0.right" timestamp="1586191481325">
+    <state width="1398" height="75" key="GridCell.Tab.0.right" timestamp="1586217652043">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580956142031" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
     <state width="1398" height="155" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
-    <state width="1398" height="111" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1586191481325" />
+    <state width="1398" height="75" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1586217652043" />
     <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="272" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581270888149" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
@@ -242,9 +243,10 @@
     <state x="374" y="279" key="com.intellij.ide.util.TipDialog/0.23.1440.840@0.23.1440.840" timestamp="1580858023540" />
     <state x="374" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.845@0.23.1440.845" timestamp="1581273724089" />
     <state x="374" y="281" key="com.intellij.ide.util.TipDialog/0.23.1440.848@0.23.1440.848" timestamp="1580665943657" />
-    <state x="385" y="195" width="670" height="676" key="search.everywhere.popup" timestamp="1580064052635">
-      <screen x="0" y="23" width="1440" height="848" />
+    <state x="385" y="194" width="670" height="674" key="search.everywhere.popup" timestamp="1586215164994">
+      <screen x="0" y="23" width="1440" height="845" />
     </state>
+    <state x="385" y="194" width="670" height="674" key="search.everywhere.popup/0.23.1440.845@0.23.1440.845" timestamp="1586215164994" />
     <state x="385" y="195" width="670" height="676" key="search.everywhere.popup/0.23.1440.848@0.23.1440.848" timestamp="1580064052635" />
   </component>
 </project>
