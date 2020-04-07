@@ -2,6 +2,7 @@ package seleniumintro.Udemy;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.ui.Select;
 import utilities.Driver;
 
 import java.util.Arrays;
@@ -17,7 +18,15 @@ public class GreenKart_addingItemsList_remake {
 
         // cart interaction after method
         Driver.getDriver().findElement(By.xpath("//img[@alt='Cart']")).click();
+        Driver.getDriver().findElement(By.xpath("//button[text()='PROCEED TO CHECKOUT']")).click();
+        Driver.getDriver().findElement(By.xpath("//input[@class='promoCode']")).sendKeys("rahulshettyacademy");
+        Driver.getDriver().findElement(By.xpath("//button[@class='promoBtn']")).click();
+        Driver.getDriver().findElement(By.xpath("//button[text()='Place Order']")).click();
 
+        Select selectCountry = new Select(Driver.getDriver().findElement(By.xpath("//select[@style='width: 200px;']")));
+        selectCountry.selectByValue("United States");
+        Driver.getDriver().findElement(By.cssSelector("input.chkAgree")).click();
+        Driver.getDriver().findElement(By.xpath("//button[text()='Proceed']")).click();
 
 
     }
