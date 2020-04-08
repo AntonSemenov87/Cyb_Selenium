@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Frames_practice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Homework_WindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/HomeWork_iFrames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Udemy_randomTasks.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Frames_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Frames_practice.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,33 +47,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Frames_practice">
-    <configuration name="Actions_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Actions_practice" />
-      <module name="SeleniumProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumintro.Udemy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FluentWait_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.FluentWait_practice" />
-      <module name="SeleniumProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumintro.Udemy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Udemy_randomTasks">
     <configuration name="Frames_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Frames_practice" />
       <module name="SeleniumProjects" />
@@ -86,8 +61,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="HomeWork_iFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.HomeWork_iFrames" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.Udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Homework_WindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Homework_WindowHandle" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.Udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Udemy_randomTasks" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Udemy_randomTasks" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -114,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Udemy_randomTasks" />
+        <item itemvalue="Application.HomeWork_iFrames" />
         <item itemvalue="Application.Frames_practice" />
         <item itemvalue="Application.Homework_WindowHandle" />
         <item itemvalue="Application.WindowHandle_practice" />
-        <item itemvalue="Application.Actions_practice" />
-        <item itemvalue="Application.FluentWait_practice" />
       </list>
     </recent_temporary>
   </component>
@@ -165,68 +166,68 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1581042768376" />
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom" timestamp="1586365305427">
+    <state width="1398" height="165" key="GridCell.Tab.0.bottom" timestamp="1586388218773">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580956142032" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
     <state width="1398" height="155" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1580868265069" />
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1586365305427" />
+    <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1586388218773" />
     <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="272" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581270888149" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="165" key="GridCell.Tab.0.center" timestamp="1586365305426">
+    <state width="1398" height="165" key="GridCell.Tab.0.center" timestamp="1586388218772">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580956142031" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
     <state width="1398" height="155" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
-    <state width="1398" height="165" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1586365305426" />
+    <state width="1398" height="165" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1586388218772" />
     <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="272" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581270888148" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="165" key="GridCell.Tab.0.left" timestamp="1586365305425">
+    <state width="1398" height="165" key="GridCell.Tab.0.left" timestamp="1586388218772">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580956142030" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
     <state width="1398" height="155" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1580868265067" />
-    <state width="1398" height="165" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1586365305425" />
+    <state width="1398" height="165" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1586388218772" />
     <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="272" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581270888148" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="165" key="GridCell.Tab.0.right" timestamp="1586365305426">
+    <state width="1398" height="165" key="GridCell.Tab.0.right" timestamp="1586388218773">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580956142031" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
     <state width="1398" height="155" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
-    <state width="1398" height="165" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1586365305426" />
+    <state width="1398" height="165" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1586388218773" />
     <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="272" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581270888149" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="272" key="GridCell.Tab.1.bottom" timestamp="1586230622548">
+    <state width="1398" height="272" key="GridCell.Tab.1.bottom" timestamp="1586369363486">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
-    <state width="1398" height="272" key="GridCell.Tab.1.bottom/0.23.1440.845@0.23.1440.845" timestamp="1586230622548" />
+    <state width="1398" height="272" key="GridCell.Tab.1.bottom/0.23.1440.845@0.23.1440.845" timestamp="1586369363486" />
     <state width="1398" height="274" key="GridCell.Tab.1.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580344646745" />
     <state width="1398" height="272" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581270888150" />
-    <state width="1398" height="272" key="GridCell.Tab.1.center" timestamp="1586230622547">
+    <state width="1398" height="272" key="GridCell.Tab.1.center" timestamp="1586369363486">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
-    <state width="1398" height="272" key="GridCell.Tab.1.center/0.23.1440.845@0.23.1440.845" timestamp="1586230622547" />
+    <state width="1398" height="272" key="GridCell.Tab.1.center/0.23.1440.845@0.23.1440.845" timestamp="1586369363486" />
     <state width="1398" height="274" key="GridCell.Tab.1.center/0.23.1440.848@0.23.1440.848" timestamp="1580344646745" />
     <state width="1398" height="272" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1581270888150" />
-    <state width="1398" height="272" key="GridCell.Tab.1.left" timestamp="1586230622547">
+    <state width="1398" height="272" key="GridCell.Tab.1.left" timestamp="1586369363485">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
-    <state width="1398" height="272" key="GridCell.Tab.1.left/0.23.1440.845@0.23.1440.845" timestamp="1586230622547" />
+    <state width="1398" height="272" key="GridCell.Tab.1.left/0.23.1440.845@0.23.1440.845" timestamp="1586369363485" />
     <state width="1398" height="274" key="GridCell.Tab.1.left/0.23.1440.848@0.23.1440.848" timestamp="1580344646745" />
     <state width="1398" height="272" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1581270888150" />
-    <state width="1398" height="272" key="GridCell.Tab.1.right" timestamp="1586230622547">
+    <state width="1398" height="272" key="GridCell.Tab.1.right" timestamp="1586369363486">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
-    <state width="1398" height="272" key="GridCell.Tab.1.right/0.23.1440.845@0.23.1440.845" timestamp="1586230622547" />
+    <state width="1398" height="272" key="GridCell.Tab.1.right/0.23.1440.845@0.23.1440.845" timestamp="1586369363486" />
     <state width="1398" height="274" key="GridCell.Tab.1.right/0.23.1440.848@0.23.1440.848" timestamp="1580344646745" />
     <state width="1398" height="272" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1581270888150" />
     <state x="221" y="34" key="SettingsEditor" timestamp="1585802493580">
@@ -247,10 +248,10 @@
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state x="375" y="209" width="689" height="472" key="find.popup/0.23.1440.845@0.23.1440.845" timestamp="1586220720574" />
-    <state x="385" y="194" width="670" height="674" key="search.everywhere.popup" timestamp="1586365032272">
+    <state x="385" y="194" width="670" height="674" key="search.everywhere.popup" timestamp="1586384673911">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
-    <state x="385" y="194" width="670" height="674" key="search.everywhere.popup/0.23.1440.845@0.23.1440.845" timestamp="1586365032272" />
+    <state x="385" y="194" width="670" height="674" key="search.everywhere.popup/0.23.1440.845@0.23.1440.845" timestamp="1586384673911" />
     <state x="385" y="195" width="670" height="676" key="search.everywhere.popup/0.23.1440.848@0.23.1440.848" timestamp="1580064052635" />
   </component>
 </project>
