@@ -6,7 +6,7 @@ import org.openqa.selenium.support.ui.Select;
 import org.testng.Assert;
 import utilities.Driver;
 
-public class Homework {
+public class Homework_1 {
     public static void main(String[] args) throws InterruptedException {
         /*HW1
         Driver.getDriver().get("https://rahulshettyacademy.com/AutomationPractice/");
