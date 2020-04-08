@@ -42,9 +42,11 @@ public class Udemy_randomTasks {
             leftColumn.findElements(By.tagName("a")).get(i).sendKeys(clickOnLinkTab);
             Thread.sleep(5000);
 
+        }
             // opens all tabs
             Set<String> handles = Driver.getDriver().getWindowHandles(); //4 other windows
             Iterator<String> iterator = handles.iterator();
+
 
             // while there are tabs - keep switching to them
             while (iterator.hasNext()) {
@@ -54,4 +56,4 @@ public class Udemy_randomTasks {
         }
 
     }
-}
+
