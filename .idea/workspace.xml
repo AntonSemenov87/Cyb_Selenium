@@ -2,7 +2,125 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/SeleniumGrid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Voting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Cybertek_practice/Alerts_testNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Cybertek_practice/Alerts_testNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Cybertek_practice/Iframe_testNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Cybertek_practice/Iframe_testNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Cybertek_practice/WindowHandle_testNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Cybertek_practice/WindowHandle_testNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/SeleniumProjects.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Mentoring_Tue/AmazonUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Mentoring_Tue/AmazonUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Mentoring_Tue/Amazon_mentoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Mentoring_Tue/Amazon_mentoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Mentoring_Tue/BasePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Mentoring_Tue/BasePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Mentoring_Tue/TypeRacer_mentoring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Mentoring_Tue/TypeRacer_mentoring.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjectModelTests/LoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjectModelTests/LoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PageObjectModelTests/SmartBearLoginTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PageObjectModelTests/SmartBearLoginTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/amazon_pages/AmazonLandingPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/amazon_pages/AmazonLandingPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/practice_cybertek_pages/DynamicLoading1Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/practice_cybertek_pages/DynamicLoading1Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/practice_cybertek_pages/DynamicLoading2Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/practice_cybertek_pages/DynamicLoading2Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/practice_cybertek_pages/HoversPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/practice_cybertek_pages/HoversPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/smartbear_pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/smartbear_pages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/vytrack_pages/VytrackLoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/vytrack_pages/VytrackLoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Etsy_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Etsy_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/SmartBear_login.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/SmartBear_login.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/SmartBear_orderVerif.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/SmartBear_orderVerif.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/SmartBear_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/SmartBear_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Smartbear_link_verif.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Smartbear_link_verif.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Smartbear_order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Smartbear_order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Smartbear_verify_order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Smartbear_verify_order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Techlistic_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/SmartBearPractice/Techlistic_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tasks/SmartBear_orderVerif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tasks/SmartBear_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tasks/Smartbear_link_verif.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tasks/Smartbear_order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Tasks/Techlistic_practice.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/CreateCalendarEventsDropdown_test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vytrack/CreateCalendarEventsDropdown_test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/Scrap.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vytrack/Scrap.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/Vytrack_calendarEvent.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vytrack/Vytrack_calendarEvent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/Vytrack_callPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vytrack/Vytrack_callPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Vytrack/Vytrack_defaultValuesCheck.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Vytrack/Vytrack_defaultValuesCheck.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/actions_tests/AmazonTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/actions_tests/AmazonTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/actions_tests/HoversTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/actions_tests/HoversTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/framework/DriverTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/framework/DriverTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/framework/PropertiesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/framework/PropertiesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/framework/Singleton.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/framework/Singleton.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/framework/SingletonTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/framework/SingletonTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/reviewOfUtilities/GoogleHomepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/reviewOfUtilities/GoogleHomepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/reviewOfUtilities/PreviewFile_txt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/reviewOfUtilities/PreviewFile_txt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/reviewOfUtilities/ReviewFile.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/reviewOfUtilities/ReviewFile.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Amazon_CSS_locator.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Amazon_CSS_locator.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Amazon_XPath_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Amazon_XPath_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Amazon_search.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Amazon_search.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/AppleSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/AppleSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/CVS_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/CVS_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Cybertek_AddRemoveElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Cybertek_AddRemoveElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Cybertek_Checkboxes.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Cybertek_Checkboxes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Cybertek_dropdown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Cybertek_dropdown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Cybertek_xpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Cybertek_xpath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/DropDown_selectFromNonSelectDropDown.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/DropDown_selectFromNonSelectDropDown.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/DropdownSelect_Date.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/DropdownSelect_Date.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/DropdownSelect_multipleSelect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/DropdownSelect_multipleSelect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Etsy_XPATH.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Etsy_XPATH.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/FirstSeleniumClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/FirstSeleniumClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/GitHub_login_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/GitHub_login_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleAttributeValue_example.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleAttributeValue_example.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleTC.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/GoogleTC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/HerokuApp_URL_Verification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/HerokuApp_URL_Verification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Instagram_login_check.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Instagram_login_check.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/JavaFakerExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/JavaFakerExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Links_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Links_task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Links_task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Links_task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Links_task3.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Links_task3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/LocatorsIntro.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/LocatorsIntro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/SeleniumEasy_checbox_task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/SeleniumEasy_checbox_task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/SeleniumEasy_checkbox_task2.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/SeleniumEasy_checkbox_task2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task1_GoogleVerification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task1_GoogleVerification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task2_CybertekVerifications.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task2_CybertekVerifications.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task3_BackAndForthNavigation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task3_BackAndForthNavigation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task4_BasicLoginAuthentication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task4_BasicLoginAuthentication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task5_GoogleSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task5_GoogleSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task6_EtsyTitleVerification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task6_EtsyTitleVerification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task7_ZeroBankHeaderVerification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task7_ZeroBankHeaderVerification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task8_ZeroBankHeaderVerification.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task8_ZeroBankHeaderVerification.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task9_ZeroBankBasicAuthentication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Task9_ZeroBankBasicAuthentication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Actions_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Actions_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Alerts_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Alerts_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/FluentWait_practice$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/FluentWait_practice$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/FluentWait_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/FluentWait_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Frames_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Frames_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/GreenKart_addingItemsList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/GreenKart_addingItemsList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/GreenKart_addingItemsList_remake.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/GreenKart_addingItemsList_remake.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/HomeWork_iFrames.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/HomeWork_iFrames.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Homework_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Homework_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Homework_ImplicitExplicitWaits.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Homework_ImplicitExplicitWaits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Homework_WindowHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Homework_WindowHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/MakeMyTrip_dropdown_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/MakeMyTrip_dropdown_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/SpiceJet_dropdown_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/SpiceJet_dropdown_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/SpiceJet_order.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/SpiceJet_order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Udemy_Selenium_practice1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Udemy_Selenium_practice1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Udemy_facebook_xpath.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Udemy_facebook_xpath.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Udemy_randomTasks.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Udemy_randomTasks.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Udemy_rediff_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Udemy_rediff_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/WindowHandle_practice.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/WindowHandle_practice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/synchronization_tests/ExplicitWaitTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/synchronization_tests/ExplicitWaitTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/synchronization_tests/ImplicitWaitTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/synchronization_tests/ImplicitWaitTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/synchronization_tests/ThreadSleepTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/synchronization_tests/ThreadSleepTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tenantcloud_practice/Tests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tenantcloud_practice/Tests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testNG/DependenciesTestNG.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testNG/DependenciesTestNG.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testNG/FirstTestNGClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testNG/FirstTestNGClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testNG/HardAssertions.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testNG/HardAssertions.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testNG/OrderOfThings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testNG/OrderOfThings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testNG/SmartBear_deleteAll.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testNG/SmartBear_deleteAll.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testNG/Smartbear_deleteOrder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testNG/Smartbear_deleteOrder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/testNG/VytrackLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testNG/VytrackLogin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Config.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Config.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/Driver.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/SeleniumUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/SeleniumUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/utilities/VytrackUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/utilities/VytrackUtils.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +140,6 @@
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="vmOptionsForImporter" value="-Xmx768m" />
       </MavenImportingSettings>
     </option>
@@ -33,18 +150,18 @@
   <component name="ProjectId" id="1WY6JfJPVR2VJxK4QcUqODvBnwp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Udemy_randomTasks">
+  <component name="RunManager" selected="Application.Voting">
     <configuration name="Frames_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Frames_practice" />
       <module name="SeleniumProjects" />
@@ -71,8 +188,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework_WindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Homework_WindowHandle" />
+    <configuration name="SeleniumGrid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.SeleniumGrid" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +214,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowHandle_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.WindowHandle_practice" />
+    <configuration name="Voting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Voting" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -112,25 +229,13 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Voting" />
+        <item itemvalue="Application.SeleniumGrid" />
         <item itemvalue="Application.Udemy_randomTasks" />
         <item itemvalue="Application.HomeWork_iFrames" />
         <item itemvalue="Application.Frames_practice" />
-        <item itemvalue="Application.Homework_WindowHandle" />
-        <item itemvalue="Application.WindowHandle_practice" />
       </list>
     </recent_temporary>
-  </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -163,43 +268,43 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="458" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.877@0.23.1440.877" timestamp="1581042768376" />
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom" timestamp="1586388816250">
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom" timestamp="1586556798244">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1580956142032" />
     <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771781" />
     <state width="1398" height="155" key="GridCell.Tab.0.bottom/0.23.1440.840@0.23.1440.840" timestamp="1580868265069" />
-    <state width="1398" height="165" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1586388816250" />
+    <state width="1398" height="191" key="GridCell.Tab.0.bottom/0.23.1440.845@0.23.1440.845" timestamp="1586556798244" />
     <state width="1398" height="189" key="GridCell.Tab.0.bottom/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="272" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1581270888149" />
     <state width="1398" height="221" key="GridCell.Tab.0.bottom/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="165" key="GridCell.Tab.0.center" timestamp="1586388816250">
+    <state width="1398" height="191" key="GridCell.Tab.0.center" timestamp="1586556798243">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1580956142031" />
     <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
     <state width="1398" height="155" key="GridCell.Tab.0.center/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
-    <state width="1398" height="165" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1586388816250" />
+    <state width="1398" height="191" key="GridCell.Tab.0.center/0.23.1440.845@0.23.1440.845" timestamp="1586556798243" />
     <state width="1398" height="189" key="GridCell.Tab.0.center/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="272" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1581270888148" />
     <state width="1398" height="221" key="GridCell.Tab.0.center/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
-    <state width="1398" height="165" key="GridCell.Tab.0.left" timestamp="1586388816249">
+    <state width="1398" height="191" key="GridCell.Tab.0.left" timestamp="1586556798243">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1580956142030" />
     <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771779" />
     <state width="1398" height="155" key="GridCell.Tab.0.left/0.23.1440.840@0.23.1440.840" timestamp="1580868265067" />
-    <state width="1398" height="165" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1586388816249" />
+    <state width="1398" height="191" key="GridCell.Tab.0.left/0.23.1440.845@0.23.1440.845" timestamp="1586556798243" />
     <state width="1398" height="189" key="GridCell.Tab.0.left/0.23.1440.848@0.23.1440.848" timestamp="1580682184199" />
     <state width="1398" height="272" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1581270888148" />
     <state width="1398" height="221" key="GridCell.Tab.0.left/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539771" />
-    <state width="1398" height="165" key="GridCell.Tab.0.right" timestamp="1586388816250">
+    <state width="1398" height="191" key="GridCell.Tab.0.right" timestamp="1586556798244">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
     <state width="1398" height="285" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1580956142031" />
     <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1579479771780" />
     <state width="1398" height="155" key="GridCell.Tab.0.right/0.23.1440.840@0.23.1440.840" timestamp="1580868265068" />
-    <state width="1398" height="165" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1586388816250" />
+    <state width="1398" height="191" key="GridCell.Tab.0.right/0.23.1440.845@0.23.1440.845" timestamp="1586556798244" />
     <state width="1398" height="189" key="GridCell.Tab.0.right/0.23.1440.848@0.23.1440.848" timestamp="1580682184200" />
     <state width="1398" height="272" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1581270888149" />
     <state width="1398" height="221" key="GridCell.Tab.0.right/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372539772" />
@@ -227,10 +332,10 @@
     <state width="1398" height="272" key="GridCell.Tab.1.right/0.23.1440.845@0.23.1440.845" timestamp="1586369363486" />
     <state width="1398" height="274" key="GridCell.Tab.1.right/0.23.1440.848@0.23.1440.848" timestamp="1580344646745" />
     <state width="1398" height="272" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1581270888150" />
-    <state x="221" y="34" key="SettingsEditor" timestamp="1585802493580">
+    <state x="221" y="31" key="SettingsEditor" timestamp="1586556589658">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
-    <state x="221" y="34" key="SettingsEditor/0.23.1440.845@0.23.1440.845" timestamp="1585802493580" />
+    <state x="221" y="31" key="SettingsEditor/0.23.1440.845@0.23.1440.845" timestamp="1586556589658" />
     <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1580590228954" />
     <state x="221" y="37" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583348220441" />
     <state x="1230" y="1477" key="SettingsEditor/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372332774" />
