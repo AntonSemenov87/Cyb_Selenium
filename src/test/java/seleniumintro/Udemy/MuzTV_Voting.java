@@ -4,7 +4,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import utilities.Driver;
 
-public class Voting {
+public class MuzTV_Voting {
     public static void main(String[] args) throws InterruptedException {
 
         int i = 0;
@@ -12,7 +12,7 @@ public class Voting {
             Driver.getDriver().get("https://sp.muz-tv.ru/bali/voting");
             Thread.sleep(2000);
 
-            Driver.getDriver().findElement(By.xpath("//button[@data-id='1']")).click();
+            Driver.getDriver().findElement(By.xpath("//button[@data-id='3']")).click();
 
             Thread.sleep(5000);
             Driver.quitDriver();
