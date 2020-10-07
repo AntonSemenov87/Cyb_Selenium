@@ -23,7 +23,7 @@ public class FirstTestNGClass {
     @Test
     public void asecondTest() {
         String letter ="e";
-        Assert.assertTrue("sensence".contains(letter), "Sentence doesn't contain " + letter);
+        Assert.assertTrue("sentence".contains(letter), "Sentence doesn't contain " + letter);
         Assert.assertFalse("sentence".contains("s"), "this TC should fail");
         System.out.println("2nd test is running...");
     }

@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="c99d5466-057b-4c2a-b5db-141575d18130" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Voting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumintro/Udemy/Voting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Voting.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Voting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumintro/Udemy/Voting.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,12 +39,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Voting">
+  <component name="RunManager" selected="Application.MuzTV_Voting">
     <configuration name="Frames_practice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Frames_practice" />
       <module name="SeleniumProjects" />
@@ -61,6 +60,19 @@
     </configuration>
     <configuration name="HomeWork_iFrames" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.HomeWork_iFrames" />
+      <module name="SeleniumProjects" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumintro.Udemy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MuzTV_Voting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.MuzTV_Voting" />
       <module name="SeleniumProjects" />
       <extension name="coverage">
         <pattern>
@@ -98,22 +110,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Voting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="seleniumintro.Udemy.Voting" />
-      <module name="SeleniumProjects" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="seleniumintro.Udemy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Voting" />
+        <item itemvalue="Application.MuzTV_Voting" />
         <item itemvalue="Application.SeleniumGrid" />
         <item itemvalue="Application.Udemy_randomTasks" />
         <item itemvalue="Application.HomeWork_iFrames" />
@@ -216,10 +215,10 @@
     <state width="1398" height="272" key="GridCell.Tab.1.right/0.23.1440.845@0.23.1440.845" timestamp="1586369363486" />
     <state width="1398" height="274" key="GridCell.Tab.1.right/0.23.1440.848@0.23.1440.848" timestamp="1580344646745" />
     <state width="1398" height="272" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1581270888150" />
-    <state x="221" y="31" key="SettingsEditor" timestamp="1586556589658">
+    <state x="221" y="31" key="SettingsEditor" timestamp="1586891764714">
       <screen x="0" y="23" width="1440" height="845" />
     </state>
-    <state x="221" y="31" key="SettingsEditor/0.23.1440.845@0.23.1440.845" timestamp="1586556589658" />
+    <state x="221" y="31" key="SettingsEditor/0.23.1440.845@0.23.1440.845" timestamp="1586891764714" />
     <state x="221" y="37" key="SettingsEditor/0.23.1440.848@0.23.1440.848" timestamp="1580590228954" />
     <state x="221" y="37" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1583348220441" />
     <state x="1230" y="1477" key="SettingsEditor/1009.1463.1440.848/0.23.3440.1417@1009.1463.1440.848" timestamp="1579372332774" />
