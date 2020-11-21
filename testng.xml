@@ -1,0 +1,58 @@
+
+<suite name="Regression Test">
+    <test verbose="2" preserve-order="true" name="/Users/AntonSemenov/Desktop/Cybertek/SeleniumProjects">
+        <classes>
+            <class name="Cybertek_practice.Alerts_testNG"><methods><include name="jsAlert"/>
+                <include name="jsConfirm"/>
+                <include name="jsPrompt"/>
+            </methods>
+            </class>
+            <class name="Cybertek_practice.Iframe_testNG">
+                <methods>
+                    <include name="iFrameCheck"/>
+                </methods>
+            </class>
+            <class name="Cybertek_practice.WindowHandle_testNG">
+                <methods>
+                    <include name="windowHandleTest"/>
+                </methods>
+            </class>
+            <class name="Mentoring_Tue.Amazon_mentoring">
+                <methods>
+                    <include name="navigateTo"/>
+                    <include name="validateCategroriesSize"/>
+                    <include name="clickCategory"/>
+                </methods>
+            </class>
+            <class name="PageObjectModelTests.LoginTests">
+                <methods>
+                    <include name="positiveLoginScenario"/>
+                </methods>
+            </class>
+            <class name="PageObjectModelTests.SmartBearLoginTests">
+                <methods>
+                    <include name="wrongUsernameTest"/>
+                    <include name="wrongPasswordTest"/>
+                    <include name="noUserNameTest"/>
+                    <include name="noPasswordTest"/>
+                </methods>
+            </class>
+            <class name="actions_tests.AmazonTests">
+                <methods>
+                    <include name="signInLinkHoverTest"/>
+                </methods>
+            </class>
+            <class name="actions_tests.HoversTests">
+                <methods>
+                    <include name="hoversTests"/>
+                </methods>
+            </class>
+            <class name="framework.DriverTest">
+                <methods>
+                    <include name="test"/>
+                </methods>
+            </class><class name="framework.PropertiesTest">
+            <methods>
+                <include name="test1"/>
+                <include name="testWithUtil"/>
+            </methods></class><class name="framework.SingletonTest"><methods><include name="test"/></methods></class><class name="synchronization_tests.ExplicitWaitTests"><methods><include name="waitForInputBoxTest"/></methods></class><class name="synchronization_tests.ImplicitWaitTests"><methods><include name="threadSleepTest"/></methods></class><class name="synchronization_tests.ThreadSleepTests"><methods><include name="threadSleepTest"/></methods></class><class name="testNG.DependenciesTestNG"><methods><include name="login"/><include name="makePurchase"/><include name="homePage"/></methods></class><class name="testNG.FirstTestNGClass"><methods><include name="bfirstTest"/><include name="asecondTest"/></methods></class><class name="testNG.HardAssertions"><methods><include name="test1"/><include name="test2"/><include name="test3"/></methods></class><class name="testNG.OrderOfThings"><methods><include name="firstTest"/><include name="b_secondTest"/><include name="a_thirdTest"/><include name="fourthTest"/></methods></class><class name="testNG.SmartBear_deleteAll"><methods><include name="deleteAllTest"/></methods></class><class name="testNG.Smartbear_deleteOrder"><methods><include name="deleteOrderTest"/><include name="editOrderTest"/><include name="deleteNameTest2"/></methods></class><class name="testNG.VytrackLogin"><methods><include name="loginTest"/></methods></class></classes></test></suite>

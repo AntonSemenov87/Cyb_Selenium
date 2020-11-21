@@ -21,6 +21,8 @@ public class AmazonTests {
         // 4 - we will move to the link using actions instance and methods
         actions.moveToElement(amazonLandingPage.signInLink).perform();
 
+        Driver.quitDriver();
+
 
     }
 }
